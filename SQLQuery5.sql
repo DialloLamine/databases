@@ -1,0 +1,1 @@
+INSERT INTO departments (department_name) VALUES ('Human Resources'), ('Engineering');
